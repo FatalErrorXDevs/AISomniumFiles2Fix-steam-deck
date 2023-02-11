@@ -6,7 +6,9 @@ This MelonLoader mod is a fork of [AISomniumFiles2Fix](https://github.com/Lyall/
 
 ## Installation
 - Grab the [latest release of AISomniumFiles2Fix.](https://github.com/FatalErrorXDevs/AISomniumFiles2Fix-steam-deck/releases)
-- Extract the contents of the **AISomniumFiles2Fix** zip to the **game directory**.
+- Grab the latests melon loader
+- unzip melon loader into the game directory
+- Extract the contents of the **AISomniumFiles2Fix** zip to the **mod folder**.
 - Run the game. It may take a little while on the first boot as MelonLoader does it's magic.
 
 ## Configuration
